@@ -1,0 +1,3 @@
+,predictionID,predictionStartTime,predictionEndTime,savePredictiond,predictionPath,predictionConsumedTimeSeconds,MAPE,MAE,RMSE
+0,XGBPrediction_201702282345_96steps,2017-03-01,2017-03-01 23:45:00,True,SavedModels//prediction,0.012329339981079102,,,
+1,XGBPrediction_201702282345_192steps,2017-03-01,2017-03-02 23:45:00,True,SavedModels//prediction,0.011652946472167969,,,

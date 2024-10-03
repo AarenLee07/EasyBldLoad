@@ -1,0 +1,2 @@
+,trainingStartTime,trainingEndTime,fitComsumedTimeSeconds,saveModeld,modelID,modelPath,modelSize,platformInfo
+0,2017-01-01 00:15:00,2017-02-28 23:45:00,13.476361989974976,True,XGBModel_201701010015_201702282345,SavedModels//model,24914713,MyLaptop_i7_13700
